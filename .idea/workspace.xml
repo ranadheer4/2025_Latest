@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05afc061-60ab-43b3-8776-80d44b8dbafc" name="Changes" comment="day1&amp;day2_withLocalBranches">
-      <change afterPath="$PROJECT_DIR$/LoopsNo'sStrings/forloopdemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsNo'sStrings/jumpingstatements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsNo'sStrings/numbersdemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsNo'sStrings/rangefunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsNo'sStrings/stringsdemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoopsNo'sStrings/whileloopdemo.py" afterDir="false" />
+    <list default="true" id="05afc061-60ab-43b3-8776-80d44b8dbafc" name="Changes" comment="day3_LoopsStrings">
+      <change afterPath="$PROJECT_DIR$/Lists_Tuples/ListDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists_Tuples/Tupledemo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,11 +59,12 @@
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "rana__local",
-    "last_opened_file_path": "C:/Users/RanadheerDurgi/PycharmProjects/PythonProject/pythonTraining/LoopsNo'sStrings"
+    "last_opened_file_path": "C:/Users/RanadheerDurgi/PycharmProjects/PythonProject/pythonTraining/Lists_Tuples"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RanadheerDurgi\PycharmProjects\PythonProject\pythonTraining\Lists_Tuples" />
       <recent name="C:\Users\RanadheerDurgi\PycharmProjects\PythonProject\pythonTraining\LoopsNo'sStrings" />
       <recent name="C:\Users\RanadheerDurgi\PycharmProjects\PythonProject\pythonTraining\day2" />
       <recent name="C:\Users\RanadheerDurgi\PycharmProjects\PythonProject\pythonTraining\day1" />
@@ -134,12 +131,29 @@
       <option name="project" value="LOCAL" />
       <updated>1750251985288</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day3_LoopsStrings">
+      <option name="closed" value="true" />
+      <created>1750255133329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1750255133329</updated>
+    </task>
+    <task id="LOCAL-00004" summary="day3_LoopsStrings">
+      <option name="closed" value="true" />
+      <created>1750255168086</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750255168086</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day1&amp;day2" />
     <MESSAGE value="day1&amp;day2_withLocalBranches" />
-    <option name="LAST_COMMIT_MESSAGE" value="day1&amp;day2_withLocalBranches" />
+    <MESSAGE value="day3_LoopsStrings" />
+    <option name="LAST_COMMIT_MESSAGE" value="day3_LoopsStrings" />
   </component>
 </project>
