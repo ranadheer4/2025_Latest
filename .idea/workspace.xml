@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05afc061-60ab-43b3-8776-80d44b8dbafc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonTraining.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/datatypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/helloworld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/keywords.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/variables.py" afterDir="false" />
+    <list default="true" id="05afc061-60ab-43b3-8776-80d44b8dbafc" name="Changes" comment="day1&amp;day2_withLocalBranches">
+      <change afterPath="$PROJECT_DIR$/LoopsNo'sStrings/forloopdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoopsNo'sStrings/jumpingstatements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoopsNo'sStrings/numbersdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoopsNo'sStrings/rangefunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoopsNo'sStrings/stringsdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoopsNo'sStrings/whileloopdemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +26,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ranadheer4"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ranadheer4/2025_Latest.git",
+    "accountId": "7cd4d053-1a4d-44e4-8950-0a3e49feefa9"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -42,16 +56,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.TakingInputFromUser.executor": "Run",
     "Python.comments.executor": "Run",
     "Python.helloworld.executor": "Run",
+    "Python.printweeknumber.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/RanadheerDurgi/PycharmProjects/PythonProject/pythonTraining/day1"
+    "git-widget-placeholder": "rana__local",
+    "last_opened_file_path": "C:/Users/RanadheerDurgi/PycharmProjects/PythonProject/pythonTraining/LoopsNo'sStrings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RanadheerDurgi\PycharmProjects\PythonProject\pythonTraining\LoopsNo'sStrings" />
+      <recent name="C:\Users\RanadheerDurgi\PycharmProjects\PythonProject\pythonTraining\day2" />
       <recent name="C:\Users\RanadheerDurgi\PycharmProjects\PythonProject\pythonTraining\day1" />
     </key>
   </component>
@@ -100,6 +118,28 @@
       <option name="presentableId" value="Default" />
       <updated>1750244966084</updated>
     </task>
+    <task id="LOCAL-00001" summary="day1&amp;day2">
+      <option name="closed" value="true" />
+      <created>1750251379920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750251379920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day1&amp;day2_withLocalBranches">
+      <option name="closed" value="true" />
+      <created>1750251985288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750251985288</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day1&amp;day2" />
+    <MESSAGE value="day1&amp;day2_withLocalBranches" />
+    <option name="LAST_COMMIT_MESSAGE" value="day1&amp;day2_withLocalBranches" />
   </component>
 </project>
